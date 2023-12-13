@@ -1,5 +1,7 @@
 # LynxSherpa
 
+![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Full_View.png?raw=true)
+
 ## Why another Sherpa:
 I was looking for a new extruder as my Orbiter started dying on me and had my eyes on the sherpa mini.
 Doing a bit more research, I looked at the sailfin and found a mod keep the tensioner open for easier filament swaps which led to look for mods of the sherpa mini as well in my pursuit of finding the perfect extruder.
@@ -17,6 +19,7 @@ Also the adjustment screw sits on the left by default now, if you want the stand
 ## Workings:
 The general idea is the same as with the Sherpa Zero, the adjustment screw is just fixed now instead of in the tensioning arm.
 I would also advise to use a nylon screw to not damage the axle of the idler gear.
+![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Angle_Adjust.png?raw=true)
 
 
 ## File names:
