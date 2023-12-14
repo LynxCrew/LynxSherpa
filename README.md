@@ -28,3 +28,8 @@ There are also 2 version of the core: the default one (dubbed normal) and one wh
 For the front housing there are 4 versions: a normal one and one for extruder mounts like on the armchair xol where you can add one screw from the front (dubbed XOL).
 Both of those versions feature a version for a "long" angle adjustment screw (m3x8) or a short one (m3x6).
 There is also a file for a printed version of the m5x7x0.5 shim.
+The optional folder contains a Turbiter mod which fits the LynxSherpa (and the normal sherpa) on an Armchair XOL.
+
+## Credits
+[Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+[Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero)
