@@ -31,5 +31,5 @@ There is also a file for a printed version of the m5x7x0.5 shim.
 The optional folder contains a Turbiter mod which fits the LynxSherpa (and the normal sherpa) on an Armchair XOL.
 
 ## Credits
-[Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+[Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) <br>
 [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero)
