@@ -1,6 +1,7 @@
 # LynxSherpa
 
 ## Caution: not thouroughly tested!
+## Caution: Mirrored in respect to the normal sherpa mini orientation!
 
 ![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Full_View.png?raw=true)
 
@@ -14,7 +15,7 @@ I stumbled across the Sherpa Zero and thought it looked promising, though it had
 - No way to add a bowden collet (well this carries over from the original sherpa mini)
 
 That's where the LynxSherpa comes in:
-The angle adjustment screw now sits in the front housing, the bridge is gone, the cad is cleaned up, it is RIDGA compatible and there is a core piece ready for a bowden collet (the small one that's used on the hextrudort or orbiter)
+The angle adjustment screw now sits in the front housing, the bridge is gone, the cad is cleaned up, it is RIDGA compatible and there is a core piece ready for a bowden collet (the small one that's used on the hextrudort or orbiter).
 Also the adjustment screw sits on the left by default now, if you want the standard Sherpa look, just mirror each part in the slicer and you are good to go.
 
 
