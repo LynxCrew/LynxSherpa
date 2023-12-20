@@ -2,6 +2,8 @@
 
 ## Caution: not thouroughly tested!
 
+![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Full_View.png?raw=true)
+
 ## Why another Sherpa:
 I was looking for a new extruder as my Orbiter started dying on me and had my eyes on the sherpa mini.
 Doing a bit more research, I looked at the sailfin and found a mod keep the tensioner open for easier filament swaps which led to look for mods of the sherpa mini as well in my pursuit of finding the perfect extruder.
