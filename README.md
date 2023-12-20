@@ -1,6 +1,6 @@
 # LynxSherpa
 
-## Caution: not thouroughly tested
+## Caution: not thouroughly tested!
 
 ![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Full_View.png?raw=true)
 
