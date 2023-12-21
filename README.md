@@ -1,7 +1,6 @@
 # LynxSherpa
 
 ## Caution: not thouroughly tested!
-## Caution: Mirrored in respect to the normal sherpa mini orientation!
 
 ![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Full_View.png?raw=true)
 
