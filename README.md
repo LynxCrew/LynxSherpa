@@ -15,7 +15,7 @@ I stumbled across the Sherpa Zero and thought it looked promising, though it had
 
 That's where the LynxSherpa comes in:
 The angle adjustment screw now sits in the front housing, the bridge is gone, the cad is cleaned up, it is RIDGA compatible and there is a core piece ready for a bowden collet (the small one that's used on the hextrudort or orbiter).
-Also the adjustment screw sits on the left by default now, if you want the standard Sherpa look, just mirror each part in the slicer and you are good to go.
+When adjusting the angle adjusment screw, make sure to leave a little play, you'd rather still have a little bit of wood grain than worn out gears.
 
 
 ## Workings:
@@ -35,3 +35,14 @@ The optional folder contains a Turbiter mod which fits the LynxSherpa (and the n
 ## Credits
 [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) <br>
 [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero)
+
+
+## Changelog
+
+### v1-0-1
+- adjusted the size of the printed shim to be a snug fit on the axle so it doesn't slide off on it's own when disassembling the extruder
+- added a little groove in the face plate so it looks nicer
+- added printable m3 shims, I used one on the m3x20 axle of the tensioning arm (facing the core) and 2 on the idler grae axle, one on each side (totally optional)
+
+### v1-0-0
+Initial release
