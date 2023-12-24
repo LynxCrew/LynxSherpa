@@ -20,7 +20,7 @@ Also the adjustment screw sits on the left by default now, if you want the stand
 
 ## Workings:
 The general idea is the same as with the Sherpa Zero, the adjustment screw is just fixed now instead of in the tensioning arm.
-I would also advise to use a nylon screw to not damage the axle of the idler gear.
+I would also advise to use a nylon screw to not damage the axle of the idler gear. <br>
 ![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Angle_Adjust.png?raw=true)
 
 
