@@ -1,6 +1,8 @@
 # LynxSherpa
 
 ## Caution: not thouroughly tested!
+## CAUTION: Rn it seems as if the wear on the gears is quite high
+I have to do some additional testion concerning this but rn I would not use it
 
 ![alt text](https://github.com/LynxCrew/LynxSherpa/blob/main/Images/Full_View.png?raw=true)
 
